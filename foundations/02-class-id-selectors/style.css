@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(250, 170, 170);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+.biggo {
+    font-size: 24px;
+}
+
+#blue-boi {
+    color: blue;
+    font-size: 36px;
+}
+
+#green-boi {
+    background-color: hsl(126, 100%, 72%);
+    font-size: 24px;
+    font-weight: 700;
+}
